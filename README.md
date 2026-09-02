@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hola, soy Wolfgang Chamorro
 
-<!--
-**WolfganggDev/WolfganggDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mobile & Software Engineer · México 🇲🇽
 
-Here are some ideas to get you started:
+Desarrollo aplicaciones móviles nativas y soluciones de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](www.linkedin.com/in/wolfgang-miguel-chamorro-castro-00394842b) · [Email](Wolfgang.cha.dev@outlook.com)
+
+---
+
+### Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,swift,androidstudio,php,js,mysql,git,linux,css,html,tensorflow)](https://skillicons.dev)
+
+También: SwiftUI · Objective-C · Cisco Packet Tracer · VLSM Subnetting
+
+---
+
+
+### Proyectos
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+|
+| **Presagiar** | Aplicación móvil predictiva para monitoreo de riesgos y salud preventiva. | Java · Kotlin · php |
+| **Globnik** | Prototipo - Aplicación iOS educativa para niños enfocada en enseñar historia y geografia de diferentes paises | SwiftfUI |
+ **Voz Invisible** | Aplicación Android para clasificación de lenguaje de señas en tiempo real. | Java · TensorFlow Lite |
+
+---
+
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=WolfganggDev&show_icons=true&theme=dark&hide_border=true)
