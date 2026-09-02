@@ -21,7 +21,6 @@ También: SwiftUI · Objective-C · Cisco Packet Tracer · VLSM Subnetting
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-|
 | **Presagiar** | Aplicación móvil predictiva para monitoreo de riesgos y salud preventiva. | Java · Kotlin · php |
 | **Globnik** | Prototipo - Aplicación iOS educativa para niños enfocada en enseñar historia y geografia de diferentes paises | SwiftfUI |
  **Voz Invisible** | Aplicación Android para clasificación de lenguaje de señas en tiempo real. | Java · TensorFlow Lite |
