@@ -1,5 +1,4 @@
 <img width="1983" height="793" alt="pres" src="https://github.com/user-attachments/assets/de90abdf-5a66-41cc-987c-1d91686235b9" />
-## Hola, soy Wolfgang Chamorro
 
 ### Mobile & Software Engineer · México 🇲🇽
 
