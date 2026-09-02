@@ -28,4 +28,4 @@ También: SwiftUI · Objective-C · Cisco Packet Tracer · VLSM Subnetting
 ---
 
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=WolfganggDev&show_icons=true&theme=dark&hide_border=true)
+![Contribuciones](https://ghchart.rshah.org/40c463/WolfganggDev)
